@@ -1,5 +1,5 @@
 ## Hi there 👋
-#👋 Hi, I'm Yash Gurav 🎓 <br> Computer Science Engineering Student | Python & Full-Stack Developer 💻 Focused on Software Development, Web Applications & Backend Engineering. 🐍 Python, Django, JavaScript, REST APIs, Full-Stack Development 🤖 interested in AI-powered applications, intelligent systems & real-world automation. 🚀 Building practical solutions by combining AI with modern web and backend technologies. 🤝 Open to Python, Full-Stack, Open Source & AI collaborations 🎯 Goal: To grow as a Python AI Engineer and Full-Stack Developer.
+#👋 Hi, I'm Yash Gurav <br> 🎓 Computer Science Engineering Student | Python & Full-Stack Developer 💻 Focused on Software Development, Web Applications & Backend Engineering. 🐍 Python, Django, JavaScript, REST APIs, Full-Stack Development 🤖 interested in AI-powered applications, intelligent systems & real-world automation. 🚀 Building practical solutions by combining AI with modern web and backend technologies. 🤝 Open to Python, Full-Stack, Open Source & AI collaborations 🎯 Goal: To grow as a Python AI Engineer and Full-Stack Developer.
 
 
 ## 🌐 Socials:
