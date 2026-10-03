@@ -3,15 +3,10 @@
 
 
 ## 🌐 Socials:
-
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yash_u_9696)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-gurav-892763425)
-
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashgurav016@gmail.com)
-
 [![Resume](https://img.shields.io/badge/📄%20View%20My%20Resume-Click%20Here-blue?style=for-the-badge&logoColor=white)](https://drive.google.com/file/d/12gWjEHdcUFFnpGqQwwMSfAc0MLK3Qtfg/view?usp=drivesdk)
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-2F80ED?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yashgurav016.github.io/yash_Gurav_Portfolio/)
 
 # 💻 Tech Stack:
