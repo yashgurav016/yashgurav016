@@ -1,14 +1,14 @@
 ## 👋 Hello, I'm Yash Gurav
 
-### About Me
+## 👨‍💻 About Me
 
-🎓 Computer Science Engineering Student | Python & Full-Stack Developer
-💻 Focused on Software Development, Web Applications & Backend Engineering
-🐍 Python, Django, JavaScript, REST APIs, Full-Stack Development
-🤖 Interested in AI-powered applications, intelligent systems & real-world automation
-🚀 Building practical solutions by combining AI with modern web and backend technologies
-🤝 Open to Python, Full-Stack, Open Source & AI collaborations
-🎯 **Goal:** To grow as a Python AI Engineer and Full-Stack Developer
+I'm a Computer Science Engineering student who loves building backend systems and web apps with Python.
+
+- 🐍 **Focus:** Python, Django, REST APIs, Full-Stack Development
+- 🤖 **Interested in:** AI-powered apps and real-world automation
+- 🎯 **Goal:** Become a Python AI Engineer / Full-Stack Developer
+- 🤝 **Open to:** Internships, collaborations and open source
+- 📍 **Based in:** Baramati, Pune, Maharashtra
 
 📍 Baramati, Pune, Maharashtra
 
