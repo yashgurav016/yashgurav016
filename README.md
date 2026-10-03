@@ -21,7 +21,7 @@ I'm a Computer Science Engineering student who loves building backend systems an
 ---
 
 
-## 🌐 Socials
+## 🌐 Connect with me
 
 <p>
   <a href="https://instagram.com/yash_u_9696"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" /></a>
