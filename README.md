@@ -30,7 +30,7 @@ I'm a Computer Science Engineering student who loves building backend systems an
   <a href="https://drive.google.com/file/d/12gWjEHdcUFFnpGqQwwMSfAc0MLK3Qtfg/view?usp=drivesdk"><img src="https://img.shields.io/badge/📄%20View%20My%20Resume-Click%20Here-blue?style=for-the-badge&logoColor=white" alt="Resume" /></a>
   <a href="https://yashgurav016.github.io/yash_Gurav_Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-2F80ED?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
 </p>
-
+<a href="https://x.com/YashGuravDev"><img src="https://img.shields.io/badge/X-000000.svg?logo=X&logoColor=white" alt="X" /></a>
 ---
 
 
