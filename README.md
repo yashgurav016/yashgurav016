@@ -81,8 +81,8 @@
 
 | Project | Description |
 |---------|-------------|
-| [Portfolio Website](https://github.com/yashgurav016/yash_Gurav_Portfolio) | My personal portfolio built with HTML & CSS |
-| [Student Management System](https://github.com/yashgurav016/student-management-system) | Student records management project |
+| [Portfolio Website](https://github.com/yashgurav016/yash_Gurav_Portfolio) | My personal portfolio built with HTML, CSS & JavaScript |
+| [Student Management System](https://github.com/yashgurav016/student-management-system) | Student records management project build with Python|
 
 > 🔜 More Python/Django and AI projects coming soon.
 
