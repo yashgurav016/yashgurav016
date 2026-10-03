@@ -76,7 +76,7 @@ I'm a Computer Science Engineering student who loves building backend systems an
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 | Project | Description |
 |---------|-------------|
