@@ -22,27 +22,6 @@
 
 ---
 
-## 🌐 Socials
-
-[
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)
-](https://instagram.com/yash_u_9696)
-
-[
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
-](https://www.linkedin.com/in/yash-gurav-892763425)
-
-[
-![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)
-](mailto:yashgurav016@gmail.com)
-
-[
-![Resume](https://img.shields.io/badge/📄%20View%20My%20Resume-Click%20Here-blue?style=for-the-badge&logoColor=white)
-](https://drive.google.com/file/d/12gWjEHdcUFFnpGqQwwMSfAc0MLK3Qtfg/view?usp=drivesdk)
-
-[
-![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-2F80ED?style=for-the-badge&logo=google-chrome&logoColor=white)
-](https://yashgurav016.github.io/yash_Gurav_Portfolio/)
 
 ## 🌐 Socials
 
@@ -56,18 +35,7 @@
 
 ---
 
-## 💻 Tech Stack
 
-**Languages**
-
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## 💻 Tech Stack
 
@@ -106,45 +74,6 @@
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" alt="EC2" />
 </p>
-
-**Frontend**
-
-
-![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
- 
-
-![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
- 
-
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-
-**Backend & Databases**
-
-
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-
-
-**Cloud & DevOps**
-
-
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-![EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
 
 ---
 
