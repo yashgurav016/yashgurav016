@@ -10,8 +10,6 @@ I'm a Computer Science Engineering student who loves building backend systems an
 - 🤝 **Open to:** Internships, collaborations and open source
 - 📍 **Based in:** Baramati, Pune, Maharashtra
 
-📍 Baramati, Pune, Maharashtra
-
 ---
 
 ## 🌱 Currently
