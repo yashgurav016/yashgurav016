@@ -21,37 +21,27 @@ I'm a Computer Science Engineering student who loves building backend systems an
 ---
 
 
+
+</a>
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=header&text=Let's%20Connect&fontSize=38&fontColor=ffffff&fontAlignY=38" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:DB2777&height=130&section=header&text=Let's%20Connect&fontSize=38&fontColor=ffffff&fontAlignY=40" width="100%" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=A78BFA&center=true&vCenter=true&width=520&lines=Got+an+idea%3F+Let's+build+it+together;Open+to+collabs+%26+opportunities;Always+one+message+away" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=A78BFA&center=true&vCenter=true&width=460&height=30&lines=Got+an+idea%3F+Let's+build+it+together;Open+to+collabs+%26+opportunities;Always+one+message+away" alt="typing" />
 
-<br><br>
+<p>
+<a href="https://instagram.com/yash_u_9696"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://www.linkedin.com/in/yash-gurav-892763425"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:yashgurav016@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://x.com/YashGuravDev"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+</p>
 
-<a href="https://instagram.com/yash_u_9696">
-  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" alt="Instagram" />
-</a>
-<a href="https://www.linkedin.com/in/yash-gurav-892763425">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" />
-</a>
-<a href="mailto:yashgurav016@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Mail_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" />
-</a>
-<a href="https://x.com/YashGuravDev">
-  <img src="https://img.shields.io/badge/X-Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117" alt="X" />
-</a>
+<p>
+<a href="https://drive.google.com/file/d/12gWjEHdcUFFnpGqQwwMSfAc0MLK3Qtfg/view?usp=drivesdk"><img src="https://img.shields.io/badge/Resume-7C3AED?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
+<a href="https://yashgurav016.github.io/yash_Gurav_Portfolio/"><img src="https://img.shields.io/badge/Portfolio-2F80ED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+</p>
 
-<br><br>
-
-<a href="https://drive.google.com/file/d/12gWjEHdcUFFnpGqQwwMSfAc0MLK3Qtfg/view?usp=drivesdk">
-  <img src="https://img.shields.io/badge/Resume-View-7C3AED?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=0d1117" alt="Resume" />
-</a>
-<a href="https://yashgurav016.github.io/yash_Gurav_Portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-2F80ED?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" alt="Portfolio" />
-</a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:DB2777&height=90&section=footer" width="100%" alt="footer" />
 
 </div>
 
