@@ -55,18 +55,25 @@ I'm a Computer Science Engineering student who loves building backend systems an
 <img src="assets/projects.svg" width="100%" alt="Projects" />
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/yashgurav016/yash_Gurav_Portfolio">Portfolio Website</a></h3>
-      <p>My personal portfolio showcasing my skills, projects, and contact details.</p>
-      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/yashgurav016/student-management-system">Student Management System</a></h3>
-      <p>A project to add, view, and manage student records efficiently.</p>
-      <p><code>Python</code></p>
-    </td>
-  </tr>
+  <thead>
+    <tr>
+      <th align="left">Project</th>
+      <th align="left">Description</th>
+      <th align="left">Tech Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/yashgurav016/yash_Gurav_Portfolio"><b>Portfolio Website</b></a></td>
+      <td>Personal portfolio showcasing my skills, projects, and contact details.</td>
+      <td><code>HTML</code> <code>CSS</code> <code>JavaScript</code></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/yashgurav016/student-management-system"><b>Student Management System</b></a></td>
+      <td>Project to add, view, and manage student records efficiently.</td>
+      <td><code>Python</code></td>
+    </tr>
+  </tbody>
 </table>
 
 <sub>More Python, Django, and AI projects coming soon.</sub>
