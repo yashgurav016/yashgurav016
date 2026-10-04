@@ -21,33 +21,45 @@ I'm a Computer Science Engineering student who loves building backend systems an
 ---
 
 
-## 🌐 Connect with me
+<div align="center">
 
-<p>
-  <a href="https://instagram.com/yash_u_9696">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.linkedin.com/in/yash-gurav-892763425">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:yashgurav016@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://x.com/YashGuravDev">
-    <img src="https://img.shields.io/badge/X-000000.svg?logo=X&logoColor=white" alt="X" />
-  </a>
-</p>
+## 🌐 Let's Connect
 
-<p>
-  <a href="https://drive.google.com/file/d/12gWjEHdcUFFnpGqQwwMSfAc0MLK3Qtfg/view?usp=drivesdk">
-    <img src="https://img.shields.io/badge/📄%20View%20My%20Resume-Click%20Here-blue?style=for-the-badge&logoColor=white" alt="Resume" />
-  </a>
-  <a href="https://yashgurav016.github.io/yash_Gurav_Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-2F80ED?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
+<sub>✦ ─────────── ✦ ─────────── ✦</sub>
 
----
+*Got an idea, a project, or just want to say hi? I'm always one message away.*
+
+<br>
+
+<a href="https://instagram.com/yash_u_9696">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="https://www.linkedin.com/in/yash-gurav-892763425">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:yashgurav016@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://x.com/YashGuravDev">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+</a>
+
+<br><br>
+
+<a href="https://drive.google.com/file/d/12gWjEHdcUFFnpGqQwwMSfAc0MLK3Qtfg/view?usp=drivesdk">
+  <img src="https://img.shields.io/badge/📄%20Resume-View%20Now-2F80ED?style=for-the-badge&logoColor=white" alt="Resume" />
+</a>
+<a href="https://yashgurav016.github.io/yash_Gurav_Portfolio/">
+  <img src="https://img.shields.io/badge/🚀%20Portfolio-Visit%20Now-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+</a>
+
+<br><br>
+
+<sub>✦ ─────────── ✦ ─────────── ✦</sub>
+
+<sub>Made with ☕ and curiosity</sub>
+
+</div>
 
 
 
