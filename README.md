@@ -50,16 +50,28 @@ I'm a Computer Science Engineering student who loves building backend systems an
 </div>
 
 
-## 🚀 Projects
+<div align="center">
 
-| Project | Description |
-|---------|-------------|
-| [Portfolio Website](https://github.com/yashgurav016/yash_Gurav_Portfolio) | My personal portfolio built with HTML, CSS & JavaScript |
-| [Student Management System](https://github.com/yashgurav016/student-management-system) | Student records management project build with Python|
+<img src="assets/projects.svg" width="100%" alt="Projects" />
 
-> 🔜 More Python/Django and AI projects coming soon.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/yashgurav016/yash_Gurav_Portfolio">Portfolio Website</a></h3>
+      <p>My personal portfolio showcasing my skills, projects, and contact details.</p>
+      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/yashgurav016/student-management-system">Student Management System</a></h3>
+      <p>A project to add, view, and manage student records efficiently.</p>
+      <p><code>Python</code></p>
+    </td>
+  </tr>
+</table>
 
----
+<sub>More Python, Django, and AI projects coming soon.</sub>
+
+</div>
 
 ## 📊 GitHub Stats
 
