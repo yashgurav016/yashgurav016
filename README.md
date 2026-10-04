@@ -21,13 +21,11 @@ I'm a Computer Science Engineering student who loves building backend systems an
 ---
 
 
-
-</a>
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:DB2777&height=130&section=header&text=Let's%20Connect&fontSize=38&fontColor=ffffff&fontAlignY=40" width="100%" alt="header" />
+<img src="assets/connect.svg" width="100%" alt="Let's Connect" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=A78BFA&center=true&vCenter=true&width=460&height=30&lines=Got+an+idea%3F+Let's+build+it+together;Open+to+collabs+%26+opportunities;Always+one+message+away" alt="typing" />
+<sub>Got an idea? Open to collabs & opportunities</sub>
 
 <p>
 <a href="https://instagram.com/yash_u_9696"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
@@ -41,61 +39,16 @@ I'm a Computer Science Engineering student who loves building backend systems an
 <a href="https://yashgurav016.github.io/yash_Gurav_Portfolio/"><img src="https://img.shields.io/badge/Portfolio-2F80ED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:DB2777&height=90&section=footer" width="100%" alt="footer" />
-
-</div>
-
-
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:DB2777&height=130&section=header&text=Tech%20Stack&fontSize=38&fontColor=ffffff&fontAlignY=40" width="100%" alt="header" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=A78BFA&center=true&vCenter=true&width=460&height=30&lines=Tools+I+build+with;Always+learning+something+new" alt="typing" />
-
 <br>
 
-<h4>Languages</h4>
+<img src="assets/stack.svg" width="100%" alt="Tech Stack" />
 
 <p>
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://skillicons.dev/icons?i=py,js,java,ts,html,css,tailwind,django,mysql,postgres,firebase,git,linux,docker,aws&perline=5" alt="Tech stack" />
 </p>
-
-<h4>Frontend</h4>
-
-<p>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-</p>
-
-<h4>Backend & Databases</h4>
-
-<p>
-<img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
-<img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="Firebase" />
-</p>
-
-<h4>Cloud & DevOps</h4>
-
-<p>
-<img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-<img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" alt="EC2" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:DB2777&height=90&section=footer" width="100%" alt="footer" />
 
 </div>
 
----
 
 ## 🚀 Projects
 
