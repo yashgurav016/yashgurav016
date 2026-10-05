@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Yash Gurav
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me.   
 
 I'm a Computer Science Engineering student who loves building backend systems and web apps with Python.
 
