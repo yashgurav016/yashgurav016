@@ -11,7 +11,7 @@ I'm a Computer Science Engineering student who loves building backend systems an
 - 📍 **Based in:** Baramati, Pune, Maharashtra
 
 ---
-
+    
 ## 🌱 Currently
 
 - 🔨 Building: Django REST API projects
