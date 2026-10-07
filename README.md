@@ -47,8 +47,7 @@ I'm a Computer Science Engineering student who loves building backend systems an
 <img src="https://skillicons.dev/icons?i=py,js,java,ts,html,css,tailwind,django,mysql,postgres,firebase,git,linux,docker,aws&perline=5" alt="Tech stack" />
 </p>
 
-</div>
-
+</div>.           
 
 <div align="center">
 
